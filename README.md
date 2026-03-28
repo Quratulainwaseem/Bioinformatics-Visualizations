@@ -47,16 +47,16 @@ Bioinformatics-Visualizations/
 ## Sample Figures
 
 ### GO Biological Process
-![GO BP](figures/GO_BP_barplot.png)
+
 
 ### GO Cellular Component
-![GO CC](figures/GO_CC_barplot.png)
+
 
 ### GO Molecular Function
-![GO MF](figures/GO_MF_barplot.png)
+
 
 ### miRNA–mRNA Network
-![Network](figures/Cytoscape_miRNA_mRNA_network.png)
+
 
 ---
 
